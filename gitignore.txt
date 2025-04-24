@@ -1,0 +1,10 @@
+# .gitignore
+.env
+*.key
+*.pem
+config/database.php
+secrets/
+__pycache__/
+*.log
+database.ini
+credentials.json
