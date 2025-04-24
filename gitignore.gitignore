@@ -1,0 +1,9 @@
+# Credenciais e configurações sensíveis
+.env
+*.key
+*.pem
+config/database.php
+secrets/
+*.log
+database.ini
+credentials.json
